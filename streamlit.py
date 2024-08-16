@@ -8,7 +8,6 @@ Original file is located at
 """
 
 import streamlit as st
-import plotly.express as px
 import pickle
 import numpy as np
 from datetime import datetime
